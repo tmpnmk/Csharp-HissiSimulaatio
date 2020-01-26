@@ -28,8 +28,7 @@ namespace HissiSimulaatio
                     ReadLine();
                     break;
                 }
-            } while (true);
-            
+            } while (true);   
         }
 
         static int PyydaKokonaisluku(string kehote)
