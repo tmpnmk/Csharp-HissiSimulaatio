@@ -1,4 +1,7 @@
-﻿using static System.Console;
+﻿// HissiSimulaatio
+// 2020 (C) Teemu Pienimäki
+
+using static System.Console;
 
 namespace HissiSimulaatio
 {
